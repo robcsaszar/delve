@@ -1,0 +1,18 @@
+{
+  "name": "robcsaszar-delve",
+  "version": "0.5.0",
+  "description": "A skill that activates a rigorous research collaborator mode: flags confidence levels, prevents hallucinations, cites sources, and surfaces assumptions.",
+  "author": {
+    "name": "Rob Csaszar",
+    "url": "https://nhg.design"
+  },
+  "repository": "https://github.com/robcsaszar/delve",
+  "license": "MIT",
+  "keywords": [
+    "research",
+    "fact-checking",
+    "sources",
+    "assumptions",
+    "claude-code"
+  ]
+}
