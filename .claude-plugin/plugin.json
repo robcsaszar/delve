@@ -1,6 +1,6 @@
 {
   "name": "robcsaszar-delve",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "A skill that activates a rigorous research collaborator mode: flags confidence levels, prevents hallucinations, cites sources, and surfaces assumptions.",
   "author": {
     "name": "Rob Csaszar",
